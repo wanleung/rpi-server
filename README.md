@@ -3,6 +3,13 @@ rpi-server
 
 Raspberry Pi Perl Web services server
 
+Raspberry Pi web services server by using Perl Dancer Framework.
+Aim of this project is for the students could use simple web APIs to control their Raspberry Pi GPIO by using HTML or Javascript.
+
+The project is under Hong Kong Linux Group by Wan Leung Wong.
+
+You can visit us on http://www.linux.org.hk
+
 Dependencies 
 ==========
 C library for Broadcom BCM 2835 as used in Raspberry Pi : http://www.airspayce.com/mikem/bcm2835/
