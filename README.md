@@ -5,18 +5,20 @@ Raspberry Pi Perl Web services server
 
 Dependencies 
 ==========
-C library for Broadcom BCM 2835 as used in Raspberry Pi
-http://www.airspayce.com/mikem/bcm2835/
+C library for Broadcom BCM 2835 as used in Raspberry Pi : http://www.airspayce.com/mikem/bcm2835/
 
-Device::BCM2835 perl module
-http://search.cpan.org/~mikem/Device-BCM2835-1.1/lib/Device/BCM2835.pm
+Device::BCM2835 perl module : http://search.cpan.org/~mikem/Device-BCM2835-1.1/lib/Device/BCM2835.pm
 
-Perl Dancer Framework
-http://www.perldancer.org/
+Perl Dancer Framework : http://www.perldancer.org/
+
+Video Demo
+==========
+http://www.youtube.com/watch?v=38b4UY01co0
 
 Legal
 =====
 rpi-server - Raspberry Pi Perl Web services server
+
 Copyright (C) 2013  Wan Leung Wong (me at wanleung dot com)
 
 This program is free software: you can redistribute it and/or modify
