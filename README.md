@@ -14,7 +14,7 @@ Dependencies
 ==========
 C library for Broadcom BCM 2835 as used in Raspberry Pi : http://www.airspayce.com/mikem/bcm2835/
 
-Device::BCM2835 perl module : http://search.cpan.org/~mikem/Device-BCM2835-1.1/lib/Device/BCM2835.pm
+Device::BCM2835 perl module : http://search.cpan.org/~mikem/Device-BCM2835/lib/Device/BCM2835.pm
 
 Perl Dancer Framework : http://www.perldancer.org/
 
